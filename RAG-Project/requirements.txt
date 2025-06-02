@@ -1,9 +1,0 @@
-langchain
-langchain-community
-pypdf
-tqdm
-pymupdf
-sentence-transformers
-transformers
-torch
-chromadb
